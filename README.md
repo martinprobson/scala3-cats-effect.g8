@@ -1,7 +1,7 @@
-This is a [Giter8][g8] template for Scala 3.
+This is a [Giter8][g8] template for Scala 3 Cats Effect.
 
 ```
-sbt new martinprobson/scala3-seed.g8
+sbt new martinprobson/scala3-cats-effect.g8
 ```
 
 Template license
